@@ -1,4 +1,8 @@
-# Website
+# Docubase
+
+A cleaned Docusaurus starting instance with some extra hints / reminders I find useful to quickly setup a new static text content site.
+
+## Orig Docs
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
